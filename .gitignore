@@ -12,3 +12,9 @@
 
 SDMA_following_template/
 
+# Python virtual environments
+.venv/
+
+# Python bytecode and cache files
+__pycache__/
+*.pyc
